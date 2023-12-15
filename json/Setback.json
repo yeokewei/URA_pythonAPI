@@ -1,0 +1,159 @@
+{
+  "columns": ["last_updated", "extracted", "index"],
+  "index": ["road", "common", "GCBA", "MSCP_Road", "MSCP_Common", "appendages"],
+  "data": [
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        ["Category 1", "Residential 6 storeys and above", "30m  (5m)"],
+        ["Category 1", "Residential up to 5 storeys", "24m  (5m)"],
+        ["Category 2", "Residential 6 storeys and above", "15m  (5m)"],
+        ["Category 2", "Residential up to 5 storeys", "12m  (5m)"],
+        ["Category 3", "Residential 6 storeys and above", "10m  (3m)"],
+        ["Category 3", "Residential up to 5 storeys", "7.5m  (3m)"],
+        ["Category 4 - 5 and slip road", "Residential", "7.5m  (3m)"]
+      ],
+      [
+        "Road Category",
+        "Type of Development",
+        "Road Buffer  (inclusive of Green Buffer indicated in brackets)"
+      ]
+    ],
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        ["1", "3.0m", "3.0m"],
+        ["2", "3.0m", "3.0m"],
+        ["3", "3.0m", "3.4m"],
+        ["4", "3.0m", "3.8m"],
+        ["5", "3.3m", "4.7m"],
+        ["6", "3.6m", "5.5m"],
+        ["7", "3.9m", "6.4m"],
+        ["8", "4.2m", "7.2m"],
+        ["9", "4.5m", "8.0m"],
+        ["10", "4.8m", "8.7m"],
+        ["11", "5.1m", "9.0m"],
+        ["12", "5.4m", "9.2m"],
+        ["13", "5.7m", "9.5m"],
+        ["14", "6.0m", "9.8m"],
+        ["15", "6.3m", "10.1m"],
+        ["16", "6.6m", "10.3m"],
+        ["17", "6.9m", "10.6m"],
+        ["18", "7.2m", "10.8m"],
+        ["19", "7.5m", "11.1m"],
+        ["20", "7.8m", "11.3m"],
+        ["21", "8.1m", "11.6m"],
+        ["22", "8.4m", "11.8m"],
+        ["23", "8.7m", "12.1m"],
+        ["24", "9.0m", "12.4m"],
+        ["25", "9.3m", "12.7m"],
+        ["26", "9.6m", "12.9m"],
+        ["27", "9.9m", "13.2m"],
+        ["28", "10.2m", "13.4m"],
+        ["29", "10.5m", "13.7m"],
+        ["30", "10.8m", "14.0m"],
+        ["31", "11.1m", "14.2m"],
+        ["32", "11.4m", "14.5m"],
+        ["33", "11.7m", "14.7m"],
+        ["34", "12.0m", "15.0m"],
+        ["35", "12.3m", "15.2m"],
+        ["36 and above", "12.6m", "15.5m"],
+        [
+          "Note: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site.",
+          "Note: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site.",
+          "Note: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site."
+        ]
+      ],
+      [
+        "Storey Height",
+        "Common Boundary Setback for Flats",
+        "Common Boundary Setback for Condominiums"
+      ]
+    ],
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        ["1-2 storeys*", "3m or Road buffer requirement (if fronting road)"],
+        ["3-5 storeys", "25m"],
+        [
+          "6-35 storeys",
+          "Setback is increased by 1m beyond 25m for each storey height. For example:  a 6 storey flat shall set back 26m;  a 7 storey flat shall be set back 27m;  and so on"
+        ],
+        ["36 storeys and above", "56m"],
+        [
+          "Note: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site.",
+          "Note: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site."
+        ]
+      ],
+      ["Storey Height", "Minimum Setback from GCBA Boundary"]
+    ],
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        ["Category 1", "15m  (5m)"],
+        ["Category 2", "7.5m  (5m)"],
+        ["Category 3 \u2013 5 and Slip Road", "Refer to note below  (3m)"],
+        [
+          "Note: The road buffer for MSCPs facing a Category 3-5 road and slip road is based on the predominant use of the development. This is to achieve a consistent streetscape along these smaller roads.",
+          "Note: The road buffer for MSCPs facing a Category 3-5 road and slip road is based on the predominant use of the development. This is to achieve a consistent streetscape along these smaller roads."
+        ]
+      ],
+      [
+        "Road Category",
+        "Setback from Road for all MSCPs  (inclusive of Green Buffer indicated in brackets)"
+      ]
+    ],
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        ["MSCP fa\u00e7ade with openings", "6m (minimum)"],
+        ["MSCP fa\u00e7ade with no openings", "4.5m (minimum)"],
+        [
+          "MSCP facade fronting open areas (ie open space, drainage reserve more than 6m in width)",
+          "4.5m (minimum)"
+        ]
+      ],
+      ["Multi-Storey Car Parks", "Setback from Common Boundaries"]
+    ],
+    [
+      "Last updated on 15 Feb\u00a02023",
+      [
+        [
+          "Main building roof eaves",
+          "Allowed, provided it is not within green buffer",
+          "Allowed, provided it is not within the 2.0m planting strip  (to allow sunlight and rain to reach the plants)"
+        ],
+        [
+          "Secondary building roof eaves & RC ledges  (cantilevered)",
+          "Allowed, provided it is not within green buffer",
+          "Allowed, provided it is not within the 2.0m planting strip  (to allow sunlight and rain to reach the plants)"
+        ],
+        [
+          "Bay windows  (raised windows, not exceeding one structural bay width and cantilevered at least 0.5m high from the floor)",
+          "Allowed to protrude 0.5m into road buffer",
+          "Allowed to protrude 0.5m into setback from common boundary"
+        ],
+        [
+          "Planters  (cantilevered box structures for planting purposes)",
+          "Allowed to protrude 0.5m into road buffer",
+          "Allowed to protrude 0.5m into setback from common boundary"
+        ],
+        [
+          "Air-conditioner ledges",
+          "Allowed to protrude 0.5m into road buffer",
+          "Allowed to protrude 0.5m into setback from common boundary"
+        ],
+        [
+          "Other horizontal sun-shading devices, fins or any other decorative features  (includes light weight cantilevered screens spaced apart for sun-shading purpose without vertical supports)",
+          "Allowed to protrude 0.5m into road buffer",
+          "Allowed to protrude 0.5m into setback from common boundary"
+        ]
+      ],
+      [
+        "Building Feature",
+        "Within Road Buffer",
+        "Within Setback from Common Boundaries"
+      ]
+    ]
+  ]
+}
